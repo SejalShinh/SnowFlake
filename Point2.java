@@ -1,11 +1,6 @@
 package eecs2030.lab3;
 
 /**
- * A simple class for representing points in 2D Cartesian
- * coordinates. Every <code>Point2D</code> instance has an
- * x and y coordinate.
- * 
- * @author EECS2030 Fall 2020
  *
  */
 public class Point2 {
