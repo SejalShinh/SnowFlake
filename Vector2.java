@@ -6,20 +6,10 @@ import javax.print.attribute.standard.MediaSize.Other;
  * A class that represents two dimensional spatial vectors (a direction and a
  * magnitude). Every vector has a real-valued x-component and a y-component. The
  * class provides some basic mathematical operations such as vector addition and
- * subtraction, and scalar multiplication.
- * 
- * @author EECS2030 Fall 2020
- * 
+ * subtraction, and scalar multiplication. 
  */
 public final class Vector2 {
 	
-	// NOTE: 	Before you get started with the constructors, implement the class variables and 
-	// =====	the accessor methods (getX,getY).  The tester for the constructors relies on these
-	//			methods being implemented.  After this, move ahead with the constructors
-	
-	
-	
-    // class variables here
 	 private double x;
 	 private double y;
 	 
