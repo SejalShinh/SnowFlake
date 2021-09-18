@@ -3,18 +3,7 @@ package eecs2030.lab3;
 import princeton.introcs.StdDraw;
 import java.awt.Color;
 
-/**
- * A class that supports turtle graphics. A turtle moves between two points in a
- * straight line drawing the line as it moves.
- * 
- * A turtle has-a <code>Point2</code> instance that represents the position of
- * the turtle, and a <code>Color</code> instance that represents the current pen
- * color. The turtle maintains ownership of its position at all times.
- * 
- * 
- * @author EECS2030 Fall 2016-17
- * 
- */
+
 public class Turtle {
     private Point2 position;
     private double angle;
